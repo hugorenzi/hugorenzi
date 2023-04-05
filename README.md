@@ -1,16 +1,16 @@
 ```
-                                   __      __  ______  ____    ____    __  __  ____
-                                  /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-                                  \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
-                                   \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-                                    \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-                                     \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-                                      '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+                             __      __  ______  ____    ____    __  __  ____
+                            /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+                            \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+                             \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+                              \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+                               \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+                                '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
 ```
 
-&nbsp;&nbsp;&nbsp; ![Hugo Renzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugorenzi&show_icons=true&theme=dracula)
-&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugorenzi&theme=dracula)
+![Hugo Renzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugorenzi&show_icons=true&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugorenzi&theme=dracula)
 
 
 ### Technologies I work with
