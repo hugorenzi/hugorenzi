@@ -9,9 +9,10 @@
 
 ```
 
-![Hugo Renzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugorenzi&show_icons=true&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugorenzi&theme=dracula)
-
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugorenzi&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugorenzi&theme=dracula"/>
+</div>
 
 ### Technologies I work with
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
